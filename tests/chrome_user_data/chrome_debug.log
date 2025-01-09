@@ -1,0 +1,9 @@
+[20612:259:0109/150441.862015:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.205 (not a warning)
+[20612:259:0109/150442.095912:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[20620:259:0109/150442.219195:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[20612:259:0109/150442.600749:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://assets.twitch.tv/assets/vendor-09d4206d3946c29687f3.js (1)
+[20612:259:0109/150442.601672:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://assets.twitch.tv/assets/vendor-09d4206d3946c29687f3.js (1)
+[20612:259:0109/150442.611434:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://assets.twitch.tv/assets/vendor-09d4206d3946c29687f3.js (1)
+[20612:259:0109/150452.600596:INFO:CONSOLE(1)] "Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm", source: https://assets.twitch.tv/assets/vendor-09d4206d3946c29687f3.js (1)
+[20612:259:0109/150500.217359:INFO:CONSOLE(1)] "[GraphQL] One or more GraphQL errors were detected on request 01JH5SHTG3FYCVX9CSBBAJJ4F2. UpdateConsentMutation: failed integrity check [object Object]", source: https://assets.twitch.tv/assets/mweb-main-27101dc4ce1488000567.js (1)
+[20612:259:0109/150520.411276:INFO:CONSOLE(123)] "TypeError: Cannot read properties of null (reading 'sendMessage')", source: https://www.gstatic.com/og/_/js/k=og.asy.en_US.xcwvWBp8HRE.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTunmYes_cX2mw7iHfeW5vduAnJCNA (123)
